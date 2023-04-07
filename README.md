@@ -1,3 +1,18 @@
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=joplin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css-F43059?style=flat-square&logo=csswizardry&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+
 ### Hi there 👋
 
 <!--
