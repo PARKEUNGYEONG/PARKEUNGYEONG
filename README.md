@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  
    </div>
-   
   
 #### :wrench: Tools 
   <div>
@@ -25,9 +23,21 @@
     <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   </div>
 
+  
+###  👋 Me
+  <div>
+    <img src="https://img.shields.io/badge/tistory-FFE08C?style=flat-square&logo=tistory&logoColor=white"/> :  https://summer1007.tistory.com
+    <br />
+    <img src="https://img.shields.io/badge/notion-FFC19E?style=flat-square&logo=notion&logoColor=white"/>
+  </div>
+  
+     
+   <br />
+   <br />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋
 
 <!--
 **PARKEUNGYEONG/PARKEUNGYEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
