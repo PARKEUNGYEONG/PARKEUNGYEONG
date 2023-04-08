@@ -1,5 +1,6 @@
 <div align="center">
   <!--<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />-->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 #### :books: Studying
   <div>
@@ -7,10 +8,11 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <br />
     <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-    <br />
+  
    </div>
    
   
@@ -18,7 +20,8 @@
   <div>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+    <br />
+    <img src="https://img.shields.io/badge/Eclipseide-8041D9?style=flat-square&logo=eclipseide&logoColor=white"/>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   </div>
 
