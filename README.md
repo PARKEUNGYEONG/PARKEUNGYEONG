@@ -28,7 +28,7 @@
   <div>
     <img src="https://img.shields.io/badge/tistory-FFE08C?style=flat-square&logo=tistory&logoColor=white"/> :  https://summer1007.tistory.com
     <br />
-    <img src="https://img.shields.io/badge/notion-FFC19E?style=flat-square&logo=notion&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/notion-FFC19E?style=flat-square&logo=notion&logoColor=white"/>-->
   </div>
   
      
